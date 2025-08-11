@@ -1,6 +1,6 @@
 title: Neuroshot
-description: Sua dose diária de conhecimento para evolução pessoal e profissional.
+description: Sua dose diária de conhecimento
 theme: minima
+
 include:
   - head-custom.html
-
