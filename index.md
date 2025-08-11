@@ -1,37 +1,59 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-<nav class="navbar">
-  <ul>
-    <li><a href="#missao">Missão</a></li>
-    <li><a href="#conteudos">Conteúdos</a></li>
-    <li><a href="#sobre">Sobre</a></li>
-  </ul>
-</nav>
-
-<img src="assets/images/logo.png" alt="Logomarca Neuroshot" width="200" style="display:block; margin:80px auto 20px;">
-
-# 🧠 Neuroshot  
-**Sua Dose Diária de Conhecimento**
-
+---
+layout: default
+title: Neuroshot
 ---
 
-<h2 id="missao">✨ Missão</h2>
-<p>Nossa missão é impulsionar mentes curiosas e ambiciosas, oferecendo conteúdos que transformam conhecimento em ação e evolução pessoal em conquista profissional.</p>
+<!-- Logomarca e Slogan -->
+<header style="text-align:center; padding:40px 20px;">
+  <img src="assets/images/logo.png" alt="Logomarca Neuroshot" width="120">
+  <h1 style="margin-top:10px;">Sua Dose Diária de Conhecimento</h1>
+</header>
 
----
+<!-- Seções com Cards -->
+<section style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; padding:20px;">
+  <div style="width:220px; border:1px solid #ccc; border-radius:8px; padding:15px; text-align:center;">
+    <i class="fas fa-book fa-2x"></i>
+    <h3>E-books</h3>
+    <p>Conteúdos para aprofundar seu conhecimento.</p>
+  </div>
+  <div style="width:220px; border:1px solid #ccc; border-radius:8px; padding:15px; text-align:center;">
+    <i class="fas fa-video fa-2x"></i>
+    <h3>Vídeos</h3>
+    <p>Aprendizado dinâmico e visual.</p>
+  </div>
+</section>
 
-<h2 id="conteudos">📚 Conteúdos</h2>
+<!-- Desenvolvimento Profissional e Pessoal -->
+<section style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; padding:20px;">
+  <div style="width:220px; border:1px solid #ccc; border-radius:8px; padding:15px; text-align:center;">
+    <i class="fas fa-briefcase fa-2x"></i>
+    <h3>Desenvolvimento Profissional</h3>
+    <p>Ferramentas para impulsionar sua carreira.</p>
+  </div>
+  <div style="width:220px; border:1px solid #ccc; border-radius:8px; padding:15px; text-align:center;">
+    <i class="fas fa-user-graduate fa-2x"></i>
+    <h3>Desenvolvimento Pessoal</h3>
+    <p>Conteúdos para evolução individual contínua.</p>
+  </div>
+</section>
 
-<ul>
-  <li><i class="fas fa-book"></i> <strong>E-books</strong> — E-books e vídeos para turbinar sua carreira</li>
-  <li><i class="fas fa-video"></i> <strong>Vídeos</strong> — Reflexões e práticas para crescer por dentro e por fora</li>
-</ul>
+<!-- Missão -->
+<section style="background:#f9f9f9; padding:30px;">
+  <h2 style="text-align:center;">Missão</h2>
+  <p style="max-width:600px; margin:auto; text-align:center;">
+    Impulsionar mentes curiosas e ambiciosas, oferecendo conteúdos que transformam conhecimento em ação e evolução pessoal em conquista profissional.
+  </p>
+</section>
 
----
+<!-- Sobre -->
+<section style="background:#fff; padding:30px;">
+  <h2 style="text-align:center;">Sobre</h2>
+  <p style="max-width:600px; margin:auto; text-align:center;">
+    Neuroshot nasceu da paixão por aprender e ensinar. Acreditamos que o crescimento humano é uma jornada contínua — e estamos aqui para ser seu combustível diário.
+  </p>
+</section>
 
-<h2 id="sobre">🧠 Sobre</h2>
-<p>Neuroshot nasceu da paixão por aprender e ensinar. Acreditamos que o crescimento humano é uma jornada contínua — e estamos aqui para ser seu combustível diário.</p>
-
----
-
-<p style="text-align:center;">© 2025 Neuroshot. Todos os direitos reservados.</p>
+<!-- Rodapé -->
+<footer style="text-align:center; padding:20px; font-size:0.9em; color:#666;">
+  © 2025 Neuroshot. Todos os direitos reservados.
+</footer>
