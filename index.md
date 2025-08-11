@@ -1,31 +1,39 @@
----
-layout: home
-title: Neuroshot
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<img src="logo.png" alt="Logomarca Neuroshot" width="200" style="display:block; margin:auto;">
+
+# 🧠 Neuroshot  
+**Sua Dose Diária de Conhecimento**
+
 ---
 
-# 🚀 Bem-vindo ao Neuroshot
+## 💼 Desenvolvimento Profissional
 
-**Sua dose diária de conhecimento para evolução pessoal e profissional.**
+- <i class="fas fa-book"></i> **E-books**  
+  Materiais para aprimorar suas habilidades profissionais.
+
+- <i class="fas fa-video"></i> **Vídeos**  
+  Conteúdos visuais para acelerar seu crescimento na carreira.
+
+---
+
+## 🌱 Desenvolvimento Pessoal
+
+- <i class="fas fa-book"></i> **E-books**  
+  Reflexões e práticas para fortalecer sua inteligência emocional.
+
+- <i class="fas fa-video"></i> **Vídeos**  
+  Aulas e insights para cultivar hábitos saudáveis e produtivos.
 
 ---
 
 ## ✨ Missão
 
-Impulsionar mentes curiosas e ambiciosas, oferecendo conteúdos que transformam conhecimento em ação e evolução pessoal em conquista profissional.
+Nossa missão é impulsionar mentes curiosas e ambiciosas, oferecendo conteúdos que transformam conhecimento em ação e evolução pessoal em conquista profissional.
 
 ---
 
-## 📚 Conteúdos
-
-- **Desenvolvimento Profissional**  
-  E-books e vídeos para turbinar sua carreira.
-
-- **Desenvolvimento Pessoal**  
-  Reflexões e práticas para crescer por dentro e por fora.
-
----
-
-## 🧠 Sobre
+## 📘 Sobre
 
 Neuroshot nasceu da paixão por aprender e ensinar. Acreditamos que o crescimento humano é uma jornada contínua — e estamos aqui para ser seu combustível diário.
 
