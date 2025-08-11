@@ -1,60 +1,68 @@
 body {
-  font-family: Arial, sans-serif;
-  padding-top: 80px;
   margin: 0;
-  background-color: #ffffff;
-  color: #003366;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f9f9f9;
+  color: #333;
 }
 
-.navbar {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  background-color: #ffffff;
-  border-bottom: 1px solid #ddd;
-  z-index: 1000;
-  padding: 10px 0;
+header {
   text-align: center;
+  padding: 60px 20px 30px;
+  background: linear-gradient(135deg, #000000, #1a1a1a);
+  color: #fff;
 }
 
-.navbar ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+.logo {
+  width: 100px;
+  margin-bottom: 20px;
 }
 
-.navbar li {
-  display: inline;
-  margin: 0 15px;
+.slogan {
+  font-size: 1.2em;
+  font-weight: 300;
+  margin-top: 10px;
 }
 
-.navbar a {
-  text-decoration: none;
-  color: #003366;
-  font-weight: bold;
-  transition: color 0.3s;
+main {
+  padding: 40px 20px;
+  max-width: 900px;
+  margin: auto;
 }
 
-.navbar a:hover {
-  color: #ff6600;
+.cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-h2 {
+.card {
+  background: #fff;
+  border: 2px solid #000;
+  border-radius: 12px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: 4px 4px 0 #000;
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.about {
+  margin-top: 60px;
+}
+
+.about h2 {
   margin-top: 40px;
-  color: #003366;
+  font-size: 1.4em;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  margin: 10px 0;
-  font-size: 1.1em;
-}
-
-i {
-  margin-right: 8px;
-  color: #ff6600;
+footer {
+  text-align: center;
+  padding: 30px;
+  background: #000;
+  color: #fff;
+  font-size: 0.9em;
 }
