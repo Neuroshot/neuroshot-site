@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: #004aad;
+  color: white;
+}
+
+section {
+  padding: 40px 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+h2 {
+  color: #004aad;
+}
+
+.recursos {
+  display: flex;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.recurso {
+  text-align: center;
+}
+
+.recurso img {
+  width: 80px;
+  height: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #eee;
+  font-size: 14px;
+}
