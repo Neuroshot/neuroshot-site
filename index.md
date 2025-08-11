@@ -1,6 +1,14 @@
+<nav class="navbar">
+  <ul>
+    <li><a href="#missao">Missão</a></li>
+    <li><a href="#conteudos">Conteúdos</a></li>
+    <li><a href="#sobre">Sobre</a></li>
+  </ul>
+</nav>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-<img src="logo.png" alt="Logomarca Neuroshot" width="200" style="display:block; margin:auto;">
+<img src="logo.png.png" alt="Logomarca Neuroshot" width="200" style="display:block; margin:auto;">
 
 # 🧠 Neuroshot  
 **Sua Dose Diária de Conhecimento**
@@ -24,6 +32,8 @@
 
 - <i class="fas fa-video"></i> **Vídeos**  
   Aulas e insights para cultivar hábitos saudáveis e produtivos.
+<p><i class="fas fa-book"></i> Este é um ícone de livro</p>
+
 
 ---
 
